@@ -1,4 +1,4 @@
-Hi i’m a **backend-leaning full-stack developer** focused on building reliable APIs, clean server-side logic, and scalable application foundations.<br>My background in **Electronics & Telecommunication Engineering** gives me a systems-first mindset. I care about how things work under the hood: data flow, performance, structure, and correctness.<br>I’m currently sharpening my backend skills while building real projects under my personal brand **Shadospace**.<br>I believe strong backends outlive flashy UIs.
+Hi i’m a **full-stack developer** focused on building reliable APIs, clean server-side logic, and scalable application foundations.<br>My background in **Electronics & Telecommunication Engineering** gives me a systems-first mindset. I care about how things work under the hood: data flow, performance, structure, and correctness.<br>I’m currently sharpening my backend skills while building real projects under my personal brand **Shadospace**.<br>I believe strong backends outlive flashy UIs.
 
 
 ## 🌐 Socials:
